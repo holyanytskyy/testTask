@@ -31,7 +31,7 @@ fs.readFile('Carrier_Integration_-_Data (3).zip', function(err, data) {
                 });
                 const info = JSON.stringify(outputData);
                 fs.writeFileSync('output.json', info);     
-            })   
+            });   
        });
     });
 });
