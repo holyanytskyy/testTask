@@ -1,7 +1,7 @@
 # testTask
 
 
-##Commands than you need to run this project:
+## Commands than you need to run this project:
 ```bash
 npm install
 ```
